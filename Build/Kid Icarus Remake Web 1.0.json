@@ -1,0 +1,13 @@
+{
+"companyName": "Martin B Omdahl",
+"productName": "Kid Icarus - Slightly Different Colors Edition",
+"dataUrl": "Kid Icarus Remake Web 1.0.data.unityweb",
+"wasmCodeUrl": "Kid Icarus Remake Web 1.0.wasm.code.unityweb",
+"wasmFrameworkUrl": "Kid Icarus Remake Web 1.0.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#4E66BE",
+"cacheControl": {"default": "must-revalidate"}
+}
